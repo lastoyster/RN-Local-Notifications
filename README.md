@@ -16,6 +16,6 @@ this app showcases great functionality, enabling simple local notification for u
 - @Notifee/React Native
 - @react-navigation/native-stack
 - React Native Date Picker
-- 
+- TypeScript
 
 
